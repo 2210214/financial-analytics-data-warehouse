@@ -153,7 +153,10 @@ already exist.
 - Add SCD Type 2 tracking on `Dim_Customer` to preserve credit score history over time
 - Schedule `etl.usp_Run_Full_ETL` as a SQL Server Agent job for automated nightly refreshes
 
-## Author
+## Contact
 
-**\<Eslam Eid\>**
-[LinkedIn](#) · [GitHub](#) · [Email](#)
+**Eslam Eid**
+
+📧 Email: [ie1214@fayoum.edu.eg](mailto:ie1214@fayoum.edu.eg)
+
+🔗 LinkedIn: [linkedin.com/in/eslam-eid-80781a202](https://www.linkedin.com/in/eslam-eid-80781a202)
